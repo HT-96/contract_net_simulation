@@ -1,5 +1,5 @@
 # README #
-Basic simulation of the contract net auto agent system for keele university CSC-40045.
+Basic simulation of the contract net auto agent system for keele university.
 
 # Operation #
 The program has pre written parameters for the seller stock and buyers that would be the 
